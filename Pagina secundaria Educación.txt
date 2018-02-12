@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Educación</title>
+  </head>
+  <body>
+    <a href="../cv.html">
+    <svg width="1000" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+     <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+     <g>
+      <title>Layer 1</title>
+      <polygon id="svg_2" fill="#0000ff" points="59.5,25.053009033203125 69.18939971923828,56.71746826171875 101.45632934570312,49.27650451660156 78.87879943847656,73.5 101.45632934570312,97.72349548339844 69.18939971923828,90.28253173828125 59.5,121.94699096679688 49.81060028076172,90.28253173828125 17.543670654296875,97.72349548339844 40.12120056152344,73.5 17.543670654296875,49.27650451660156 49.81060028076172,56.71746826171875 59.5,25.053009033203125 69.18939971923828,56.71746826171875 " stroke="#000000" stroke-width="3"/>
+      <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_1" y="79.5" x="60.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#ffff00">H</text>
+      <text font-style="italic" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_3" y="77.5" x="131.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#0000ff">ercules</text>
+      <g id="svg_9"/>
+      <image xlink:href="img/lobo.jpg" id="svg_10" height="124.000003" width="119.999995" y="34.5" x="800"/>
+     </g>
+    </svg>
+    </a>
+    <ul>
+      <li><a href="../cv.html">| Hoja de vida |</a></li>
+      <li><a href="experiencia.html">Experiencia |</a></li>
+    </ul>
+      <h1><strong>HOJA DE VIDA</strong></h1></a>
+      <h2><strong>NOMBRE:</strong></h2>
+        <h3>HUGO LEONEL</h3>
+      <h2><strong>APELLIDO:</strong></h2>
+        <h3>BARRIOS PEREZ</h3>
+      <h2><strong>FECHA DE NACIMIENTO</strong></h2>
+        <h3>28/11/92</h3>
+      <h2><strong>LUGAR DE NACIMIENTO</strong></h2>
+        <h3>GUATEMALA, GUATEMALA</h3>
+
+    <h1><strong>Educacion</strong></h1>
+      <table border="1">
+        <thead >
+          <tr>
+            <th>anio</th>
+            <th>Institucion</th>
+            <th>Lugar</th>
+            <th>Culmino?</th>
+          </tr>
+          <tr>
+            <td>2008-2009</td>
+            <td>Senda "2000"</td>
+            <td>Clz. San Juan 5-55 zona 7</td>
+            <td>Si</td>
+          </tr>
+          <tr>
+            <td>2017-2018</td>
+            <td>Next U</td>
+            <td>On Line</td>
+            <td>Si</td>
+          </tr>
+        </thead>
+      </table>
+      <h1><strong>Agregar estudios</strong></h1>
+      <form autocomplete="on">
+        <p><label>Anio</label>
+        <select required>
+          <option></option>
+          <option>2005</option>
+          <option>2006</option>
+          <option>2007</option>
+          <option>2008</option>
+          <option>2009</option>
+          <option>2010</option>
+          <option>2011</option>
+          <option>2012</option>
+          <option>2013</option>
+          <option>2014</option>
+          <option>2015</option>
+          <option>2016</option>
+          <option>2017</option>
+          <option>2018</option>
+        </select>
+        </p>
+        <p>
+          <label>Instituto</label>
+          <input type="text" name="Instituto" required c>
+        </p>
+        <p>
+          <label>Lugar</label>
+          <textarea name="Lugar" rows="2" cols="80" required></textarea>
+        </p>
+        <p>
+          <label>Culmino?:</label>
+          <label>Si</label>
+          <input type="radio" required>
+          <label>No</label>
+          <input type="radio" required>
+        </p>
+        <p>
+          <input type="submit">
+        </p>
+      </form>
+      <a href="#">|TOP|</a>
+  </body>
+  <footer>
+  <a href="mailto:leo@gmail.com">|perez.hlb@gmail.com|</a> telefono:555-555-5555 | 5544 N 6th street|
+  </footer>
+</html>
